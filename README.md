@@ -1,1 +1,3 @@
-# PRODIGY_ML_02
+PRODIGY INFOTECH MACHINE LEARNING TASK-02
+
+Problem Statement: Create a K-Means clustering algorithm to group customers of a retail store based on their purchase history.The dataset consists of information on 200 mall customers, including their gender, age, annual income, and spending score. Using this data, the code applies k-means clustering to group customers based on their annual income and spending score, aiming to identify distinct segments within the customer base. The visualization and analysis of these clusters help in understanding customer behavior patterns and tailoring marketing strategies to different customer segments.
